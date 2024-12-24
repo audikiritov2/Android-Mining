@@ -16,6 +16,7 @@
 	
 	"user": "R9Jsc7v88cKbzXGaCWjHQJpV37SibeANDa.VERUS_MINER",
 	"algo": "verus",
+	"pass": "hybrid",
 	"threads": 8,
 	"cpu-priority": 1,
 	"retry-pause": 5,
