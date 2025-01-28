@@ -1,14 +1,14 @@
 {
 	"pools":[
 	{
-		"name": "ap.luckpool.net",
-        "url": "stratum+tcp://ap.luckpool.net:3956",
+		"name": "Verus Farm",
+        "url": "stratum+tcp://verus.farm:9999",
 		"timeout": 150,
 		"disabled": 0
 	},
 	{
-		"name": "sg.vipor.net (SG)",
-        "url": "stratum+tcp://sg.vipor.net:5040",
+		"name": "Luckpool",
+        "url": "stratum+tcp://ap.luckpool.net:3956",
 		"timeout": 60,
 		"time-limit": 600,
 		"disabled": 0
